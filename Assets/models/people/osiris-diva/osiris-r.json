@@ -1,0 +1,557 @@
+﻿{
+    "osiris-r": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Object": {
+            "osiris-r": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {
+                    "ArmorForOsiris_BlackRubber_0": {
+                        "Materials": {
+                            "BlackRubber_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    1.5787049531936646,
+                                    1.5787049531936646,
+                                    1.5787049531936646
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    1.5787049531936646,
+                                    1.5787049531936646,
+                                    1.5787049531936646
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_BlackRubber_0_001": {
+                        "Materials": {
+                            "BlackRubber_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    1.5787049531936646,
+                                    1.5787049531936646,
+                                    1.5787049531936646
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    1.5787049531936646,
+                                    1.5787049531936646,
+                                    1.5787049531936646
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Emi_0": {
+                        "Materials": {
+                            "material_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    198.12123107910157,
+                                    0.07802999764680863,
+                                    0.9256500005722046
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    198.12123107910157,
+                                    0.07802999764680863,
+                                    0.9256500005722046
+                                ],
+                                "Opacity": 0.8056870102882385,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Emi_0_001": {
+                        "Materials": {
+                            "material_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    198.12123107910157,
+                                    0.07802999764680863,
+                                    0.9256500005722046
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    198.12123107910157,
+                                    0.07802999764680863,
+                                    0.9256500005722046
+                                ],
+                                "Opacity": 0.8056870102882385,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_001": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_002": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_003": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_004": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_005": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Fur_0_006": {
+                        "Materials": {
+                            "material_7_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    95.89555358886719,
+                                    10.154610633850098,
+                                    10.154610633850098
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Gold_0": {
+                        "Materials": {
+                            "Gold_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Gold_0_001": {
+                        "Materials": {
+                            "Gold_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Gold_0_002": {
+                        "Materials": {
+                            "Gold_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    160.5587158203125,
+                                    57.066707611083987,
+                                    12.855315208435059
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Hair_003_0": {
+                        "Materials": {
+                            "Hair_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    5.662275314331055,
+                                    0.7354200482368469,
+                                    0.6974250078201294
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    5.662275314331055,
+                                    0.7354200482368469,
+                                    0.6974250078201294
+                                ],
+                                "Opacity": 0.9982979893684387,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Hair_003_0_001": {
+                        "Materials": {
+                            "Hair_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    5.662275314331055,
+                                    0.7354200482368469,
+                                    0.6974250078201294
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    5.662275314331055,
+                                    0.7354200482368469,
+                                    0.6974250078201294
+                                ],
+                                "Opacity": 0.9982979893684387,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_ProceduralScleraCornea_0": {
+                        "Materials": {
+                            "ProceduralScleraCornea_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_RedMetal_0": {
+                        "Materials": {
+                            "RedMetal_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    131.31761169433595,
+                                    5.703074932098389,
+                                    11.288595199584961
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    131.31761169433595,
+                                    5.703074932098389,
+                                    11.288595199584961
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_RedMetal_0_001": {
+                        "Materials": {
+                            "RedMetal_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    131.31761169433595,
+                                    5.703074932098389,
+                                    11.288595199584961
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    131.31761169433595,
+                                    5.703074932098389,
+                                    11.288595199584961
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    },
+                    "ArmorForOsiris_Skin_0": {
+                        "Materials": {
+                            "Skin_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    193.71942138671876,
+                                    134.69406127929688,
+                                    113.40283203125
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    193.71942138671876,
+                                    134.69406127929688,
+                                    113.40283203125
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
