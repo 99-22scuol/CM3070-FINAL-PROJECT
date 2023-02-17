@@ -617,7 +617,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: READY_PLAYER_ME
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}

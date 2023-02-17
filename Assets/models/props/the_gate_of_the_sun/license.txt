@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Gate of the Sun
+* source:	https://sketchfab.com/3d-models/the-gate-of-the-sun-d577a51cf9dc41fe8c4483f7f9f9f752
+* author:	Albert Gregl (https://sketchfab.com/AlbertGregl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Gate of the Sun" (https://sketchfab.com/3d-models/the-gate-of-the-sun-d577a51cf9dc41fe8c4483f7f9f9f752) by Albert Gregl (https://sketchfab.com/AlbertGregl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
