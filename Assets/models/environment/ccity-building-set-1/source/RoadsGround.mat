@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RoadsGround
-  m_Shader: {fileID: -6465566751694194690, guid: 176b7a1d4430d744fa2ab5e95784c145,
+  m_Shader: {fileID: -6465566751694194690, guid: b6faf9c08b719a243a342022668c8631,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -76,6 +76,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_7B874DC2: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
